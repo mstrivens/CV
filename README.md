@@ -1,6 +1,14 @@
 ## Max Strivens
 
-A quest maker, comfortable with the uncomfortable. I try and live out of my comfort zone and seek out the difficult in order to improve. Tech is an continuation of what I've striven to do in my life, understand the reality of a situation and work towards solutions.
+**Who Am I?**
+
+My friends call me coach, due to the patient and knowing approach I take to helping people out...or my penchant for 80's sportswear. Probably the second come to think of it. Although there might be something in that first one; I love learning and understanding thing; from physical activities, sport, games, musical instruments to blowing whistles, laying out cones and organizing people into groups (maybe I'm taking this coach thing a bit far.)
+
+At heart I'm quest maker. I try and live out of my comfort zone and seek out the difficult in order to improve. Working in Tech is an continuation of what I've striven to do in my life, understand the reality of a situation, break it down it to something simpler and work towards a solution.
+
+**Where to look on Github**
+
+Put future projects in here
 
 ## Projects
 
@@ -9,7 +17,7 @@ A quest maker, comfortable with the uncomfortable. I try and live out of my comf
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Experience
+## (Coaching) Experience
 
 **Oh My Dog! Hotdogs** (October 2018 - January 2021)  
 General Manager of Commercial Pop-ups
@@ -20,8 +28,6 @@ Identifying areas of improvement and re-designing company training and on-boardi
 Showed commercial value by managing sites to record profit and takings.
 Integrated new scheduling and ordering software.
 
-- Any experience relevant to software development
-
 **Resourcing Group** (August 2015 to August 2017)  
 Recruitment Consultant
 
@@ -30,35 +36,37 @@ Developed relationships with clients gaining understanding of their needs throug
 
 ## Skills
 
-Super adaptable, creative analytical thinker -
-Both sociable and positive thought-led -
-Can recreate or innovate -
+Highly adaptable, creative analytical thinker
+Can communicate ideas effectively
+Can recreate and innovate
 
-#### Resolution/Tenacity
+#### Resolution
 
-- I've pushes myself to understand and accept some fundamental aspects of the human experience. I have sought out learning experiences, define by my view that the most difficult experiences can lead to the biggest learns. This has led to shamanic vision quests and 10 day silent meditation retreats, confronting fear and discomfort in path to learning. My view is that these are the foundations on which a house is built and my house is built on foundations which have been dug up and relaid to provide ever increasing stability.
-- Achievements? Improvements in my ability to analyse and improve my weaknesses. A self-belief combined with an acceptance of uncontrollable factors. The ability to view things both subjectively and objectively. An ever improving resolution to see the positives in a situation
-- Evidence - This is evidenced by my joy of life. I bring a positivity and love of life to my world.
-  My resolution is evidenced by my performance at WW 2019. I was responsible for recruiting and training as well as integrating new processes on site, increasing the work load for me. I managed to  15 person team, had to put in 60 hour weeks doing a GM role as well as a Team member role. We were 50% busier than anticipated. We improved year on year sales by 55% due to improved processes and commercial visibility on-site. I increased year on year profit for the site by 830%. It was my first experience as GM and my inexperience led me to not hire enough supervisors, ultimately this mean there was a great deal more pressure on me to manage all processes but I focussed on what i could positively affect and this led to an amazing outcome.
-  I achieved substantial growth in taking, profit and quality. Identified areas of improvement in training and onboarding and redeveloped the entire training and onboarding process
-  I contributed to the growth of the business by training up future managers, developing new site standards and improving profit margins resulting in 830% increase in profit at one site.
+I've pushed myself to understand and accept some fundamental aspects of the human experience. I have sought out learning experiences, defined by my view that the most difficult experiences can lead to the biggest learns. This has led to shamanic vision quests and 10 day silent meditation retreats, confronting fear and discomfort in path to learning. I believe that these are the foundations on which a happy life is built and i've set out to make my foundations as strong as possible.
+
+This has led to improvements in my ability to analyse and improve my weaknesses. A self-belief combined with an acceptance of uncontrollable factors. The ability to view things rationally and empathetically. An ability to see the positives in a situation and instead of giving into frustration working out small steps to make a difference in a problem.
+
+- How that looks at work.
+
+At Winter Wonderland 2019, we had a site in the busy street food area. I was responsible for recruiting and training as well as integrating new processes on site. I managed a 15 person team, had to put in 60 hour weeks leading from the front, as well as filling in with the team (sort of like a player/manager.)
+
+We were 50% busier than anticipated. We improved year on year sales by 55% due to improved processes and commercial visibility on-site. I increased year on year profit for the site by 830% (eight hundred and thirty.) It was my first experience as General Manager and whilst inexperience led me to not hire enough managers, I found a way to manage all processes and I focussed on what I could positively affect leading to an amazing outcome.
+
+I achieved substantial growth in taking, profit and quality. Identified areas of improvement in training and onboarding and redeveloped the entire training and onboarding process
+
+I contributed to the growth of the business by training up future managers, developing new site standards and improving profit margins resulting in 830% increase in profit at one site.
 
 #### Creative Reasoning
 
-I am campaigner personality type, like 7% of the population. one of thee strongest attributes I have is strong intuitive creative reasoning. I have an ability to analyse and come up with creative solutions to problems, then in turn I can communicate these ideas to people effectively so they support and action them.
-
-This attribute has manifested itself in many ways over the years. From leading teams, using creative motivational methods such as staff empowerment, road-mapping their development and mood-lightening daily briefs and employee recognition.
-As well as being tastemaker in terms of music and fashion.
-Currently I am the founder of a  radio project bringing the spontaneity and diverse music of festivals to an internet radio station. This has brought together the problem solving aspects of brand identity, programming and customer recognition as well as the creative aspects of creating shows, coming up with new show ideas and redesigning the radio website.
+I am campaigner personality type, wanting to move forward as a team. One of the greatest attributes I have is strong intuitive creative reasoning. I have an ability to analyse and come up with creative solutions to problems, then in turn I can communicate these ideas to people effectively so they support and action them.
 
 The ability to use creative reasoning and communicate ideas effectively means coming up with creative solutions to problems and to be able to work as part of a team putting those ideas in to action.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- How this looks at work
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+This attribute has manifested itself in many ways over the years. From leading teams, using creative motivational methods such as staff empowerment, road-mapping their development and mood-lightening daily briefs and employee recognition.
+I have been involved involved with putting on stages at music events, coming up with ideas for music, crowd participation and hows.
+Currently I am a founder of a radio project bringing the spontaneity and diversity of festivals to an internet radio station. This has brought together the problem solving aspects of brand identity, programming and customer recognition as well as the creative aspects of creating shows, coming up with new show ideas and redesigning the radio website.
 
 ## Education
 
@@ -69,15 +77,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+- I have a blog which tracks my learning experience at Makers over the last 12 weeks;
+  www.livinglavidacoder.wordpress.com
+
 #### Cardiff University (September 2008 to September 2011)
 
-- Marine Geography
+- Marine Geography (BSc)
 - 2:2
 - Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 

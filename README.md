@@ -89,4 +89,4 @@ Currently I am a founder of a radio project bringing the spontaneity and diversi
 ## Hobbies
 
 I love interacting with technology to create music. I am self-taught in producing music, broadcasting radio shows and I'm learning the piano.
-I'm a pretty badass home cook, and I think my Chinese and Indian food would stand up to most takeaways.
+I'm a pretty decent home cook, I think my Italian could challenge your average Nonna and my Chinese and Indian food would stand up to most takeaways.

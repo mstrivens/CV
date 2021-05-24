@@ -14,7 +14,8 @@ Put future projects in here
 
 | Name                         | Description        | Tech/tools        |
 | ---------------------------- | -------------------| ----------------- |
-| **Not My Cat**               | A webapp save cats | React, Jest,      |
+| **Not My Cat**               | A webapp to        |                   |
+|                              |  save cats         | React, Jest,      |
 |                              | by location and    | Express, Mongo DB,|
 |                              | allow users to play| Node.js, Enzyme   | 
 |                              | top trumps.        |                   |

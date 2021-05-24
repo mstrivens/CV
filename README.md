@@ -15,8 +15,8 @@ Put future projects in here
 | Name                         | Description                        | Tech/tools                |
 | ---------------------------- | -------------------                | -----------------         |
 | **Not My Cat**               | A webapp to save cats by location  |  React, Jest, Express,    |
-|                              | and allow users to play top trumps |  Mongo DB, node.js, enzyme|
-|  **Something else worked on**| A webapp to do y.                  | Ruby                      | 
+|                              | and allow users to play top trumps |  Mongo DB, Node.js, Enzyme|
+|  **Something else worked on**| A webapp to do y.                  |  Ruby                      | 
 |                              |                                    |                           |
 
 ## (Coaching) Experience

@@ -12,10 +12,13 @@ Put future projects in here
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description        | Tech/tools        |
+| ---------------------------- | -------------------| ----------------- |
+| **Not My Cat**               | A webapp save cats | React, Jest,      |
+                               | by location and    | Express, Mongo DB,|
+                               | allow users to play| Node.js, Enzyme   | 
+                               | top trumps.        |                   |
+| **Something else worked on** | A webapp to do y.  | Ruby              |
 
 ## (Coaching) Experience
 

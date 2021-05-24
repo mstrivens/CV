@@ -12,14 +12,13 @@ Put future projects in here
 
 ## Projects
 
-| Name                         | Description        | Tech/tools        |
-| ---------------------------- | -------------------| ----------------- |
-| **Not My Cat**               | A webapp to        |                   |
-|                              |  save cats         | React, Jest,      |
-|                              | by location and    | Express, Mongo DB,|
-|                              | allow users to play| Node.js, Enzyme   | 
-|                              | top trumps.        |                   |
-| **Something else worked on** | A webapp to do y.  | Ruby              |
+| Name                         | Description                        | Tech/tools                |
+| ---------------------------- | -------------------                | -----------------         |
+| **Not My Cat**               | A webapp to save cats by location  |  React, Jest, Express,    |
+|                              | and allow users to play top trumps |  Mongo DB, node.js, enzyme|
+|                              |                                    |                           |
+|  **Something else worked on**| A webapp to do y.                  | Ruby                      | 
+|                              |                                    |                           |
 
 ## (Coaching) Experience
 

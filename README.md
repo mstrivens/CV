@@ -38,8 +38,8 @@ Developed relationships with clients gaining understanding of their needs throug
 
 ## Skills
 
-Highly adaptable, creative analytical thinker
-Can communicate ideas effectively
+Highly adaptable, creative analytical thinker  
+Can communicate ideas effectively  
 Can recreate and innovate
 
 #### Resolution

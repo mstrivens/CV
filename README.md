@@ -85,7 +85,6 @@ Currently I am a founder of a radio project bringing the spontaneity and diversi
 #### Cardiff University (September 2008 to September 2011)
 
 - Marine Geography (BSc)
-- 2:2
 - Other cool stuff
 
 ## Hobbies

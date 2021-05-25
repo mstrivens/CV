@@ -14,7 +14,7 @@ A full stack web app using MERN. This is a feature fulled responsive single page
 
 In addition to the social aspect of being able to share and view cats, we implemented a gamified aspect of "Top Cat". This allows you to play against a randomised cat with hidden attributes and choose an attibute to play against. We kep track of wins and award prizes to the biggest winners.
 
-https://github.com/mstrivens/not_my_cat_frontend
+https://github.com/mstrivens/not_my_cat_frontend  
 https://github.com/mstrivens/not_my_cat_backend
 
 ## Projects

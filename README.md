@@ -24,11 +24,12 @@ Put future projects in here
 **Oh My Dog! Hotdogs** (October 2018 - January 2021)  
 General Manager of Commercial Pop-ups
 
-Hiring, managing and motivating a team of up to 15 team members
-Driving standards through process management
-Identifying areas of improvement and re-designing company training and on-boarding
-Showed commercial value by managing sites to record profit and takings.
-Integrated new scheduling and ordering software.
+Recruited, trained and managed full cycle of commercial projects with a team of up to 15 staff. 
+Introduced new intuitive ordering and staffing processes using new technologies. 
+Responsible for identifying and implementing new processes to increase turnover and profitability with great success. 
+Responsible for sites turning over £1 million yearly,  with a year on year increase in turnover of 20%. 
+Implemented new processes and cost monitoring practices that increase turnover on one site by 57% and increased profitability by 837% (Eight Hundred and Thirty Seven).    
+Identified areas of improvement in training and on boarding resulting in an overhaul of the company policies. 
 
 **Resourcing Group** (August 2015 to August 2017)  
 Recruitment Consultant

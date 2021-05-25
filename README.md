@@ -8,7 +8,14 @@ At heart I'm quest maker. I try and live out of my comfort zone and seek out the
 
 **Where to look on Github**
 
-Put future projects in here
+## Not My Cat
+
+A full stack web app using MERN. This is a feature fulled responsive single paged app for cat lovers. Users are able to create customizable profiles with the prupose of creating sharable cat profiles. These save the location of the cat for the benefit of you and any of enthusiasts who may want to search out one of your cats, it also allows you to go in search of othse beautiful cats in the area. We allow the user to create a name, upload a photo and give the cat attributes such as "cattitude", "floofiness" and "chonk".
+
+In addition to the social aspect of being able to share and view cats, we implemented a gamified aspect of "Top Cat". This allows you to play against a randomised cat with hidden attributes and choose an attibute to play against. We kep track of wins and award prizes to the biggest winners.
+
+https://github.com/mstrivens/not_my_cat_frontend
+https://github.com/mstrivens/not_my_cat_backend
 
 ## Projects
 

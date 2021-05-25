@@ -6,20 +6,15 @@ My friends call me coach, due to the patient and knowing approach I take to help
 
 At heart I'm quest maker. I try and live out of my comfort zone and seek out the difficult in order to improve. Working in Tech is an continuation of what I've striven to do in my life, understand the reality of a situation, break it down it to something simpler and work towards a solution.
 
-<h3 align='left'>🛠 Tech Stack</h3>
-<p>
-- 💻 &nbsp; Ruby | Javascript
-</p> 
-<p>
-- 🌐 &nbsp; Rails | React | HTML | CSS | JavaScript | Bootstrap 
-</p>
-<p>
-- 🛢 &nbsp; PostgreSQL | MongoDB
-</p>
-<p>
-- 🔧 &nbsp; Atom | Visual Studio code | Git
-</p> 
-</div>     
+## Tech Stack 🛠
+
+- 💻  Ruby | Javascript
+
+- 🌐 Rails | React | HTML | CSS | JavaScript | Bootstrap 
+
+- 🛢 PostgreSQL | MongoDB
+
+- 🔧 Atom | Visual Studio code | Git
 
 **Where to look on Github**
 

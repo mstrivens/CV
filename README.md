@@ -89,9 +89,6 @@ Currently I am a founder of a radio project bringing the spontaneity and diversi
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-- I have a blog which tracks my learning experience at Makers over the last 12 weeks;
-  www.livinglavidacoder.wordpress.com
-
 #### Cardiff University (September 2008 to September 2011)
 
 - Marine Geography (BSc)

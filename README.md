@@ -24,12 +24,16 @@ A full stack web app using MERN. This is a feature fulled responsive single page
 
 In addition to the social aspect of being able to share and view cats, we implemented a gamified aspect of "Top Cat". This allows you to play against a randomised cat with hidden attributes and choose an attibute to play against. We kept track of wins and award prizes to the biggest winners.
 
-https://github.com/mstrivens/not_my_cat_frontend  
-https://github.com/mstrivens/not_my_cat_backend
+<a href='https://github.com/mstrivens/not_my_cat_frontend'>Not My Cat Frontend</a>  
+<a href='https://github.com/mstrivens/not_my_cat_backend'>Not My Cat Backend</a>
 
 **Charger**
 
+A front-end React Native mobile app. I wanted to create an easily accessible and well-designed web app that solves the issue of a lack of physical directions for charger points. This is a lightweight app that pulls in the google maps api and the government open source public charger points api. 
 
+This is an opportunity to develop my skills creating a  use multiple apis and create a user-friendly interface.
+
+<a href='https://github.com/mstrivens/charger'>Charger</a>
 
 ## Projects
 

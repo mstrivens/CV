@@ -70,9 +70,11 @@ Recruitment Consultant
 
 ## Skills
 
-Highly adaptable, creative analytical thinker  
-Can communicate ideas effectively  
-Can recreate and innovate
+- Highly adaptable, creative analytical thinker  
+
+- Can communicate ideas effectively  
+
+- Can recreate and innovate
 
 #### Resolution
 

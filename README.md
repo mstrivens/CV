@@ -37,14 +37,12 @@ This is an opportunity to develop my skills creating a  use multiple apis and cr
 
 ## Projects
 
-| Name                         | Description                        | Tech/tools                |
-| ---------------------------- | -------------------                | -----------------         |
-| **Not My Cat**               | A social media web app to allow    | React, Jest, Express,     |
-|                              | users to save neighbourhood cat by | Mongo DB, Node.js, Enzyme |
-|                              |  location and play games with them.|                           |
-|  **Charger**                 | A mobile based web app that allows | React Native, Expo        |
-|                              | users to search publicly available |                           |
-|                              | car charging points.               |                           |
+| Name                         | Description                                             | Tech/tools                |
+| ---------------------------- | -------------------                                     | -----------------         |
+| **Not My Cat**               | A social media web app to allow users to save           | React, Jest, Express,     |
+|                              | neighbourhood cats by location and play games with them.| Mongo DB, Node.js, Enzyme |
+|  **Charger**                 | A mobile based web app that allows users to search      | React Native, Expo        |
+|                              |  publicly available car charging points.                |                           |
 
 ## (Coaching) Experience
 

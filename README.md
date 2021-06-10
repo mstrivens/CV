@@ -39,35 +39,32 @@ https://github.com/mstrivens/not_my_cat_backend
 |                              | users to save neighbourhood cat by |  Mongo DB, Node.js, Enzyme|
 |                              |  location and play games with them.|                           |
 |  **Charger**                 | A mobile based web app that allows |  React Native, Expo       |
-|                              |  users to search publicly available|                           |
-|                              |  car charging points.              |                           |
+|                              | users to search publicly available |                           |
+|                              | car charging points.               |                           |
 
 ## (Coaching) Experience
 
 **Oh My Dog! Hotdogs** (October 2018 - January 2021)  
 General Manager of Commercial Pop-ups
 
-- Recruited, trained and managed full cycle of commercial projects with a team of up to 15 staff. 
+- Developed training and management processes for getting a team of up to 15 trained on the job within 4 days, this allowed me to be responsible for sites turning over £1 million yearly,  with a year on year increase in turnover of 20%. The success of my sites allowed the business to remain solvent through 2020/2021.
 
-- Introduced new intuitive ordering and staffing processes using new technologies. 
+- Implemented new processes in staff scheduling, ordering, and cost monitoring practices, and in wastage and stock management that increased profitability on one site by 837% (Eight Hundred and Thirty Seven)
 
-- Responsible for identifying and implementing new processes to increase turnover and profitability with great success. 
+- Identified areas of improvement in quality of service and training, through analysis and reflection on previous projects which result in the development of new company wide processes that improved staff retention and customer satisfaction.
 
-- Responsible for sites turning over £1 million yearly,  with a year on year increase in turnover of 20%. 
+- Drove change in culture from a start-up to an established food business. I researched processes from corporate rivals and applied the relevant parts to our business. This allowed us to be at the forefront of street food, in terms of speed, quality of service and health and safety standards.
 
-- Implemented new processes and cost monitoring practices that increase turnover on one site by 57% and increased profitability by 837% (Eight Hundred and Thirty Seven).    
-
-- Identified areas of improvement in training and on boarding resulting in an overhaul of the company policies. 
+- My adaptability and ability to learn quickly in this role meant I led the company to it’s most successful pop-up in my first full event as GM, increasing turnover by 57%.
 
 **Resourcing Group** (August 2015 to August 2017)  
 Recruitment Consultant
 
-- Developed relationships with new and existing clients using solution led questioning to understand and fulfil their needs
+- Developed relationships with new and existing clients using solution led questioning to understand and fulfil their needs resulting in doubling the gross profit of my desk to £3000 per week.
 
-- Asked to compile a creative technologies report looking into how we might better use technology to reach clients and candidates.
+- My ability to identify issues and create solutions led to me compiling a creative technologies report looking into how we might better use technology to reach clients and candidates, resulting in an increase in candidate engagement.
 
-- Doubled the gross profit of my desk to over £3000 weekly
-
+- My ability to question effectively and develop a mutual understanding with clients opened them up to new possibilities in recruiting, this allowed me to use my industry knowledge to help them make the best decision for their recruitment.
 
 ## Skills
 

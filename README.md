@@ -37,9 +37,9 @@ https://github.com/mstrivens/not_my_cat_backend
 | ---------------------------- | -------------------                | -----------------         |
 | **Not My Cat**               | A webapp to save cats by location  |  React, Jest, Express,    |
 |                              | and allow users to play top trumps |  Mongo DB, Node.js, Enzyme|
-|  **Charger**                 | A mobile based web app that allows 
-                          users to search publicly available car charging points.
-              |  React Native, Expo       | 
+|  **Charger**                 | A mobile based web app that allows |  React Native, Expo       |
+|                              |  users to search publicly available|                           |
+|                              |  car charging points.              |                           |
 |                              |                                    |                           |
 
 ## (Coaching) Experience

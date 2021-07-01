@@ -97,7 +97,7 @@ This means that I am able to lead customers and colleagues forward as a team, it
 
 - How this looks at work
 
-This has benefitted me when working in sales. I have been able to build rapport with clients, question and listen to their needs and use my iin-depth knowledge to influence them to make positive decisions.
+This has benefitted me when working in sales. I have been able to build rapport with clients, question and listen to their needs and use my in-depth knowledge to influence them to make positive decisions.
 
 In addtion when leading teams and having to communicate ideas, and criticism. I have a confident and positive approach ensuring I look to empower others.
 

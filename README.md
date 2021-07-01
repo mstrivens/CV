@@ -59,11 +59,11 @@ General Manager of Commercial Pop-ups
 **Resourcing Group** (August 2015 to August 2017)  
 Recruitment Consultant
 
-- Developed relationships with new and existing clients using solution led questioning to understand and fulfil their needs resulting in doubling the gross profit of my desk to £3000 per week.
+- **Customer centric relationship development** using solution driven questioning to understand and fulfil their needs resulting in doubling the gross profit of my desk to £3000 per week.
 
-- My ability to identify issues and create solutions led to me compiling a creative technologies report looking into how we might better use technology to reach clients and candidates, resulting in an increase in candidate engagement.
+- **Outcome focussed and data-driven** in compiling a creative technologies report looking into how we might better use technology to reach clients and candidates, resulting in an increase in candidate engagement.
 
-- My ability to question effectively and develop a mutual understanding with clients opened them up to new possibilities in recruiting, this allowed me to use my industry knowledge to help them make the best decision for their recruitment.
+- **Ownership of customer needs** using strong communication to open them up to new possibilities in recruiting, allowing me to apply industry knowledge to help them make the best decision for recruiting.
 
 ## Skills
 

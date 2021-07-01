@@ -41,8 +41,8 @@ I created full stack functionality in database storage, front-end authentication
 | ---------------------------- | -------------------                                     | -----------------         |
 | **Not My Cat**               | A social media web app to allow users to save           | React, Jest, Express,     |
 |                              | neighbourhood cats by location and play games with them.| Mongo DB, Node.js, Enzyme |
-|  **Charger**                 | A mobile based web app that allows users to search      | React Native, Expo        |
-|                              | publicly available car charging points.                |                           |
+|  **Chitter**                 |A twitter clone allowing users to create a profile       | Ruby on Rails, Active     |
+|                              | and post their thoughts to the world                    | Record, RSpec, Capybara.  |
 
 ## Experience
 
@@ -67,13 +67,15 @@ Recruitment Consultant
 
 ## Skills
 
-- Highly adaptable, creative analytical thinker  
+**Collaboration** - I am able to organise and empower others as well as communicating ideas effectively. My experience in running street-food kitchens shows great skill in motivating teams to work in high pressure environments.
 
-- Can communicate ideas effectively  
+**Engineering** - I have an outcome focussed approach to problems, ensuring I can take a measured approach to finding solutions. This has allowed me to identify areas of gain and quickly develop solutions to improve performance and decrease inefficiencies.
 
-- Can recreate and innovate
+**Customer-Centric** - I am very adept at understanding a customer or client’s needs and communicating reactively to build a rapport and common goal.
 
-#### Resolution
+## Personality Traits
+
+#### Resolute
 
 I've pushed my self to improve through self-knowledge. As a result I have sought out experiences such as Native American healing ceremonies and 10 day silent meditation retreats, confronting fear and discomfort in path to learning. 
 
@@ -81,25 +83,23 @@ This has led to improvements in my ability to analyse and improve my weaknesses.
 
 - How that looks at work.
 
-At Winter Wonderland 2019, we had a site in the busy street food area. I was responsible for recruiting and training as well as integrating new processes on site. I managed a 15 person team, had to put in 60 hour weeks leading from the front, as well as filling in with the team (sort of like a player/manager.)
+At Winter Wonderland 2019, we had a site in the busy street food area. I was responsible for recruiting and training as well as integrating new processes on site. I managed a 15 person team, working 60 hour weeks both managing and helping the team.
 
-We were 50% busier than anticipated. We improved year on year sales by 55% due to improved processes and commercial visibility on-site. I increased year on year profit for the site by 830% (eight hundred and thirty.) It was my first experience as General Manager and whilst inexperience led me to not hire enough managers, I found a way to manage all processes and I focussed on what I could positively affect leading to an amazing outcome.
+We were 50% busier than anticipated. We improved year on year sales by 55% due to improved processes and commercial visibility on-site. I increased year on year profit for the site by 830%. We were light on the ground with managers but I found a way to manage all processes and I focussed on what I could positively affect leading to an amazing outcome.
 
-I achieved substantial growth in taking, profit and quality. Identified areas of improvement in training and onboarding and redeveloped the entire training and onboarding process
+My reflections after the event led to me completely overhaulng the recruitment, training and on-boarding processes and traning others in the new processes.
 
-I contributed to the growth of the business by training up future managers, developing new site standards and improving profit margins resulting in 830% increase in profit at one site.
+#### Social Sensitivity
 
-#### Creative Reasoning
+I am campaigner personality type, wanting to move but wanting others to join me. Through working in sales, customer-service and reading and travelling I have developed an ability to listen and question effectively and empathise with others. I am also a strong communicator so I am able to communicate ideas effectively back to people. 
 
-I am campaigner personality type, wanting to move forward as a team. One of the greatest attributes I have is strong intuitive creative reasoning. I have an ability to analyse and come up with creative solutions to problems, then in turn I can communicate these ideas to people effectively so they support and action them.
-
-The ability to use creative reasoning and communicate ideas effectively means coming up with creative solutions to problems and to be able to work as part of a team putting those ideas in to action.
+This means that I am able to lead customers and colleagues forward as a team, it also means when I have to communicate a difficult idea I am able to do so in a way that people will take on board constructively and want to action.
 
 - How this looks at work
 
-This attribute has manifested itself in many ways over the years. From leading teams, using creative motivational methods such as staff empowerment, road-mapping their development and mood-lightening daily briefs and employee recognition.
-I have been involved involved with putting on stages at music events, coming up with ideas for music, crowd participation and hows.
-Currently I am a founder of a radio project bringing the spontaneity and diversity of festivals to an internet radio station. This has brought together the problem solving aspects of brand identity, programming and customer recognition as well as the creative aspects of creating shows, coming up with new show ideas and redesigning the radio website.
+This has benefitted me when working in sales. I have been able to build rapport with clients, question and listen to their needs and use my iin-depth knowledge to influence them to make positive decisions.
+
+In addtion when leading teams and having to communicate ideas, and criticism. I have a confident and positive approach ensuring I look to empower others.
 
 ## Education
 
@@ -113,9 +113,8 @@ Currently I am a founder of a radio project bringing the spontaneity and diversi
 #### Cardiff University (September 2008 to September 2011)
 
 - Marine Geography (BSc)
-- Other cool stuff
 
 ## Hobbies
 
-I love interacting with technology to create music. I am self-taught in producing music, broadcasting radio shows and I'm learning the piano.
+I collect vinyls and music in general. I am self-taught in producing music, broadcasting radio shows and I'm learning the piano.
 I'm a pretty decent home cook, I think my Italian could challenge your average Nonna and my Chinese and Indian food would stand up to most takeaways.

@@ -42,22 +42,19 @@ I created full stack functionality in database storage, front-end authentication
 | **Not My Cat**               | A social media web app to allow users to save           | React, Jest, Express,     |
 |                              | neighbourhood cats by location and play games with them.| Mongo DB, Node.js, Enzyme |
 |  **Charger**                 | A mobile based web app that allows users to search      | React Native, Expo        |
-|                              |  publicly available car charging points.                |                           |
+|                              | publicly available car charging points.                |                           |
 
 ## (Coaching) Experience
 
 **Oh My Dog! Hotdogs** (October 2018 - January 2021)  
 General Manager of Commercial Pop-ups
 
-- Developed training and management processes for getting a team of up to 15 trained on the job within 4 days, this allowed me to be responsible for sites turning over £1 million yearly,  with a year on year increase in turnover of 20%. The success of my sites allowed the business to remain solvent through 2020/2021.
+- **Built and delivered lean delivery processes**, responsible for sites with turnover in excess of £1 million yearly. The changes I made to service flow and food delivery resulted in a year on year increase in turnover of 20%.
 
-- Implemented new processes in staff scheduling, ordering, and cost monitoring practices, and in wastage and stock management that increased profitability on one site by 837% (Eight Hundred and Thirty Seven)
+- **Driving customer focussed improvements** in quality of service and staff training through analysis, I developed new company wide processes improving staff retention and customer satisfaction. 
 
-- Identified areas of improvement in quality of service and training, through analysis and reflection on previous projects which result in the development of new company wide processes that improved staff retention and customer satisfaction.
+- **Automation and digitalisation of management processes**, I made improvements in staffing and ordering that increased profitability on one site by 837%.
 
-- Drove change in culture from a start-up to an established food business. I researched processes from corporate rivals and applied the relevant parts to our business. This allowed us to be at the forefront of street food, in terms of speed, quality of service and health and safety standards.
-
-- My adaptability and ability to learn quickly in this role meant I led the company to it’s most successful pop-up in my first full event as GM, increasing turnover by 57%.
 
 **Resourcing Group** (August 2015 to August 2017)  
 Recruitment Consultant
@@ -78,9 +75,9 @@ Recruitment Consultant
 
 #### Resolution
 
-I've pushed myself to understand and accept some fundamental aspects of the human experience. I have sought out learning experiences, defined by my view that the most difficult experiences can lead to the biggest learns. This has led to shamanic vision quests and 10 day silent meditation retreats, confronting fear and discomfort in path to learning. I believe that these are the foundations on which a happy life is built and i've set out to make my foundations as strong as possible.
+I've pushed my self to improve through self-knowledge. As a result I have sought out experiences such as Native American healing ceremonies and 10 day silent meditation retreats, confronting fear and discomfort in path to learning. 
 
-This has led to improvements in my ability to analyse and improve my weaknesses. A self-belief combined with an acceptance of uncontrollable factors. The ability to view things rationally and empathetically. An ability to see the positives in a situation and instead of giving into frustration working out small steps to make a difference in a problem.
+This has led to improvements in my ability to analyse and improve my weaknesses. An increase in self-belief, happiness and creativity. As well as an ability to see the positives in a situation and instead of giving into frustration, and working out small steps to make a difference in a problem.
 
 - How that looks at work.
 

@@ -44,7 +44,7 @@ I created full stack functionality in database storage, front-end authentication
 |  **Charger**                 | A mobile based web app that allows users to search      | React Native, Expo        |
 |                              | publicly available car charging points.                |                           |
 
-## (Coaching) Experience
+## Experience
 
 **Oh My Dog! Hotdogs** (October 2018 - January 2021)  
 General Manager of Commercial Pop-ups

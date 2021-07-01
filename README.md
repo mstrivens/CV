@@ -2,7 +2,7 @@
 
 **Who Am I?**
 
-My friends call me coach, due to the patient and knowing approach I take to helping people out...or my penchant for 80's sportswear. I love learning and understanding; from games, reading and a dedication to self-knowledge to blowing whistles, laying out cones and organizing people into groups (maybe I'm taking this coach thing a bit far.)
+My friends call me coach, due to my desire to help and my ability to communicate ideas effectively...or my penchant for 80's sportswear. I love learning and understanding; from games, reading and a dedication to self-knowledge to blowing whistles, laying out cones and organizing people into groups (maybe I'm taking this coach thing a bit far.)
 
 At heart I'm quest maker. I try and live out of my comfort zone and seek out the difficult in order to improve. Working in Tech is an continuation of what I've striven to do in my life; break a problem down it, learn more and work towards a solution.
 

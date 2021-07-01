@@ -35,7 +35,7 @@ I created full stack functionality in database storage, front-end authentication
 
 <a href='https://github.com/mstrivens/chitter_on_rails'>Charger</a>
 
-## Projects
+## Projects (Links above)
 
 | Name                         | Description                                             | Tech/tools                |
 | ---------------------------- | -------------------                                     | -----------------         |

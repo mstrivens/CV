@@ -20,20 +20,20 @@ At heart I'm quest maker. I try and live out of my comfort zone and seek out the
 
 **Not My Cat**
 
-A full stack web app using MERN. This is a feature fulled responsive single paged app for cat lovers. Users are able to create customizable profiles with the prupose of creating sharable cat profiles. These save the location of the cat for the benefit of you and any of enthusiasts who may want to search out one of your cats, it also allows you to go in search of othse beautiful cats in the area. We allow the user to create a name, upload a photo and give the cat attributes such as "cattitude", "floofiness" and "chonk".
+A social media app for cat lovers, allowing users to create cat profiles with location. Using Google Maps APIs, geolocation and gamified logic.
 
-In addition to the social aspect of being able to share and view cats, we implemented a gamified aspect of "Top Cat". This allows you to play against a randomised cat with hidden attributes and choose an attibute to play against. We kept track of wins and award prizes to the biggest winners.
+I was responsible for implementing the Google Maps API and geolocation features, developing the database and backend routing skills and leadership, positive attitude and modelling.
 
 <a href='https://github.com/mstrivens/not_my_cat_frontend'>Not My Cat Frontend</a>  
 <a href='https://github.com/mstrivens/not_my_cat_backend'>Not My Cat Backend</a>
 
-**Charger**
+**Chitter**
 
-A front-end React Native mobile app. I wanted to create an easily accessible and well-designed web app that solves the issue of a lack of physical directions for charger points. This is a lightweight app that pulls in the google maps api and the government open source public charger points api. 
+A twitter clone allowing users to create a profile and post their thoughts to the world.
 
-This is an opportunity to develop my skills creating a  use multiple apis and create a user-friendly interface.
+I created full stack functionality in database storage, front-end authentication and user creation. I produced DRY, test-driven code following OOP principles
 
-<a href='https://github.com/mstrivens/charger'>Charger</a>
+<a href='https://github.com/mstrivens/chitter_on_rails'>Charger</a>
 
 ## Projects
 

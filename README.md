@@ -89,7 +89,7 @@ We were 50% busier than anticipated. We improved year on year sales by 55% due t
 
 My reflections after the event led to me completely overhaulng the recruitment, training and on-boarding processes and traning others in the new processes.
 
-#### Social Sensitivity
+#### Communication and Empowerment
 
 I am campaigner personality type, wanting to move but wanting others to join me. Through working in sales, customer-service and reading and travelling I have developed an ability to listen and question effectively and empathise with others. I am also a strong communicator so I am able to communicate ideas effectively back to people. 
 

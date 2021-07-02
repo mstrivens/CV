@@ -91,7 +91,7 @@ My reflections after the event led to me completely overhaulng the recruitment, 
 
 #### Communication and Empowerment
 
-I am campaigner personality type, wanting to move but wanting others to join me. Through working in sales, customer-service and reading and travelling I have developed an ability to listen and question effectively and empathise with others. I am also a strong communicator so I am able to communicate ideas effectively back to people. 
+I am campaigner personality type, wanting to progress and empower others to do so. Through working in sales, customer-service and reading and travelling I have developed an ability to listen and question effectively and empathise with others. I am also a strong communicator so I am able to communicate ideas effectively back to people. 
 
 This means that I am able to lead customers and colleagues forward as a team, it also means when I have to communicate a difficult idea I am able to do so in a way that people will take on board constructively and want to action.
 

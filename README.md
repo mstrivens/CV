@@ -4,7 +4,7 @@
 
 My friends call me coach, due to my desire to help and my ability to communicate ideas effectively...or my penchant for 80's sportswear. I love learning and understanding; from games, reading and a dedication to self-knowledge to blowing whistles, laying out cones and organizing people into groups (maybe I'm taking this coach thing a bit far.)
 
-At heart I'm on a quest to understand myself and everything else. I try and live out of my comfort zone and seek out the difficult in order to improve. I moved into tech to challenge myself, to give myself greater opportunity for professional progression and for the opportunity to work with exciting, progressive businesses.
+At heart I'm on a quest to understand myself and everything else. I try and live out of my comfort zone and seek out the difficult in order to improve. I moved into tech to challenge my inner engineer, to give myself greater opportunity for progression and for the opportunity to work with exciting, progressive businesses.
 
 ## Tech Stack 🛠
 
